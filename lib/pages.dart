@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import './pages/index.dart';
-// import './demo/index.dart';
+import 'pages/index.dart';
 
 void main() => runApp(MyApp());
 
